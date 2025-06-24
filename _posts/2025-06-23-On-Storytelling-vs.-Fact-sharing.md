@@ -25,7 +25,7 @@ I didn't have the language for it then, but I do now, thanks to my time spent in
 
 In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 times more memorable than just facts. [Harnessing the power of Stories](https://cdn-media.leanin.org/wp-content/uploads/2013/03/HarnessingStories3.15.pdf)
 
-And, if you're trying to persuade people...you should try to? Thats right, tell a story. [35% more persuasive?](https://www.inc.com/carmine-gallo/hard-data-shows-this-soft-skill-will-make-you-35-percent-more-persuasive.html)
+And, if you're trying to persuade people...you should try to? Thats right, tell a story. [35% more persuasive](https://www.inc.com/carmine-gallo/hard-data-shows-this-soft-skill-will-make-you-35-percent-more-persuasive.html)
 
 Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** [The Data Storytelling Process](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process/)
 

@@ -23,9 +23,9 @@ I didn't have the language for it then, but I do now, thanks to my time spent in
 
 ### **Stories land hard**
 
-In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 times more memorable than just facts. ["Harnessing the power of Stories."] By Stanford’s Dr. Jennifer Aaker.
+In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 times more memorable than just facts. "Harnessing the power of Stories." By Stanford’s Dr. Jennifer Aaker.
 
-And, if you're trying to persuade people...you should try to? Thats right, tell a story. [Hard Data Shows This Soft Skill Will Make You 35 Percent More Persuasive] By Inc
+And, if you're trying to persuade people...you should try to? Thats right, tell a story. Hard Data Shows This Soft Skill Will Make You 35 Percent More Persuasive. By Inc
 
 Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** [The Data Storytelling Process](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process/)
 

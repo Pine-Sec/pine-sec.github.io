@@ -23,9 +23,9 @@ I didn’t have the language for it then, but I do now, thanks to my time spent 
 
 ### **Stories land hard**
 
-In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 times more memorable than just facts ([source](https://www.gsb.stanford.edu/insights/harnessing-power-stories)). And if you’ve ever sat through a dry presentation, you know exactly what I mean.
+In fact, according to research, stories are up to 22 times more memorable than just facts. And if you’ve ever sat through a dry presentation, you know exactly what I mean.
 
-Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** ([The Data Storytelling Process](https://www.klipfolio.com/blog/data-storytelling-process)).
+Want to know how many people remember stats? About 5%. Know how many remember a story? **63%**.
 
 So if I want someone’s attention, if I want someone to act (CISO, stakeholders, that engineer you’re begging to patch the thing that **desperately needs patching**)—you don’t lead with a stat. You lead with a story.
 

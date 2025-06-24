@@ -27,14 +27,14 @@ In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 time
 
 And, if you're trying to persuade people...you should try to? Thats right, tell a story. Hard Data Shows This Soft Skill Will Make You 35 Percent More Persuasive. By Inc
 
-Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** **63%** ([source](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process))
+Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** (the-data-storytelling-process)
 
 So what...if I want someones attention, if I want someone to act (CISO, Stakeholders, *that engineer you're begging to patch the thing that* **DESPERATELY NEEDS PATCHING** - you don't lead with a CVSS score...tell them what will happen if we ignore it. Show them examples (exploitation in the wild, WOO!)
 We're not spreadsheets, we're walking, talking, pattern-recognition powerhouses, powered by narrative.
 
 ## What does our brain do with stories?
 
-You ever notice how people lean in when someone starts with, “You wouldn’t believe what happened…”? That’s not random. When we hear facts, the language centers of our brain light up. When we hear stories? Sensory, emotional, and motor areas activate too. Your brain treats the story like experience. ([7 Reasons Why Storytelling is Important in Business](https://blog.moderngov.com/reasons-why-storytelling-is-important-in-business))
+You ever notice how people lean in when someone starts with, “You wouldn’t believe what happened…”? That’s not random. When we hear facts, the language centers of our brain light up. When we hear stories? Sensory, emotional, and motor areas activate too. Your brain treats the story like experience. (7 Reasons Why Storytelling is Important in Business)
 Stories...No wonder we remember them. No wonder they move us. Lt. Col. Justin didn’t tell us about Huge Company’s mission — he showed us how those key points he made could help *build it out.*
 
 ## Why does this matter to me as a CTI Analyst?

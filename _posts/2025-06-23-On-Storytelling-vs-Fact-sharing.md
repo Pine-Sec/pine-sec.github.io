@@ -27,7 +27,7 @@ In fact, according to Stanford’s Dr. Jennifer Aaker, stories are up to 22 time
 
 And, if you're trying to persuade people...you should try to? Thats right, tell a story. Hard Data Shows This Soft Skill Will Make You 35 Percent More Persuasive. By Inc
 
-Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** [The Data Storytelling Process](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process/)
+Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** [The Data Storytelling Process](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process)
 
 So what...if I want someones attention, if I want someone to act (CISO, Stakeholders, *that engineer you're begging to patch the thing that* **DESPERATELY NEEDS PATCHING** - you don't lead with a CVSS score...tell them what will happen if we ignore it. Show them examples (exploitation in the wild, WOO!)
 We're not spreadsheets, we're walking, talking, pattern-recognition powerhouses, powered by narrative.

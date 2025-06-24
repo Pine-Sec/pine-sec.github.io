@@ -30,7 +30,7 @@ And, if you're trying to persuade people...you should try to? Thats right, tell 
 Want to know how many people remember stats? About 5%. Know how many remember a story? **63%** [The Data Storytelling Process](https://ignaciochavarria.co/2022/09/08/the-data-storytelling-process/)
 
 So what...if I want someones attention, if I want someone to act (CISO, Stakeholders, *that engineer you're begging to patch the thing that* **DESPERATELY NEEDS PATCHING** - you don't lead with a CVSS score...tell them what will happen if we ignore it. Show them examples (exploitation in the wild, WOO!)
-We're not spreadsheets, we're walking, talking, pattern-recognition powerhouses, powered by narritive.
+We're not spreadsheets, we're walking, talking, pattern-recognition powerhouses, powered by narrative.
 
 ## What does our brain do with stories?
 
@@ -49,7 +49,7 @@ Turn your data into narrative. Wrap your logic in emotion.
 
 And listen, this has to apply to our presentations too. AI? Getting increasingly better at delivering data. Hell, AI can read data off a PowerPoint if you tell it to. You want to stand out? You want to make people remember you? Don't read bullet points in relation to data. Tell a *STORY.* "Briefing with enthusiasm!"
 
-Its almost 1am now, its *been* dark and that means I should probably go lay down, and toss and turn as I think about the current state of of the geopolitical climate. (see "Iranian/Israeli conflict" subsection "Primary Iraninan Intel Analyst" Paragraph "OMG"). But I really wanted to get this written down. Its no longer good enough to be a good analyst. You have to tell a story, and learn to wield a narrative.
+Its almost 1am now, its *been* dark and that means I should probably go lay down, and toss and turn as I think about the current state of of the geopolitical climate. (see *Iranian/Israeli conflict* subsection *Primary Iranian Intel Analyst* Paragraph *OMG*). But I really wanted to get this written down. Its no longer good enough to be a good analyst. You have to tell a story, and learn to wield a narrative.
 
 ---------
 Till next time, *May your caffeine be strong, your snacks be tasty, and your intel be a story*

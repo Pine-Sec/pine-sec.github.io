@@ -1,8 +1,8 @@
 ---
 title: On Storytelling vs. Fact sharing
 date: 2025-06-23 00:15 -0500
-categories: [CTI, MUSINGS]
-tags: [post]
+categories: CTI, MUSINGS
+tags: post
 ---
 
 ## Late Night Musings – also First post on the new blog!
